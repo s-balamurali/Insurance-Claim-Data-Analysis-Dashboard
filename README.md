@@ -20,7 +20,7 @@ An insurance company needed to:
 ---
 Dashboard Preview
 
-[View Dashboard Report](https://github.com/s-balamurali/Insurance-Claim-Data-Analysis-Dashboard/blob/main/Insurance_Data_Claim_Analysis_DashBoard.jpg)
+![Dashboard Report](https://github.com/s-balamurali/Insurance-Claim-Data-Analysis-Dashboard/blob/main/Insurance_Data_Claim_Analysis_DashBoard.jpg)
 ---
 
 🚀 Key Features
