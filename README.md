@@ -54,9 +54,7 @@ gender
 
 ⭐ By Kids Driving (Ribbon Chart) – influence of young drivers in households
 
-⭐ By Education (Pie Chart) – education-level insights into adoption & claims
-
-⭐ By Education & Marital Status (Matrix Heat Grid) – combined demographic profiling
+⭐ By Education (Donut Chart) – education-level insights into adoption & claims
 
 
 ---
